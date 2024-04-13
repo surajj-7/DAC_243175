@@ -1,0 +1,7 @@
+[
+    {"id":1,"name":"rose","description":"valentine rose","qty":5,"price":2000},
+    {"id":2,"name":"lotus","description":"smelling flower","qty":7,"price":1000},
+    {"id":3,"name":"sunflower","description":"energy flower","qty":6,"price":3000},
+    {"id":4,"name":"lily","description":"chan flower","qty":8,"price":1500},
+    {"id":5,"name":"mogra","description":"worshipping flower","qty":10,"price":8000}
+]
